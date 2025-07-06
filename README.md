@@ -29,7 +29,7 @@ Welcome to my personal cybersecurity learning journey! This repository tracks my
 
 Here are some of the resources I’m using to learn:
 
-- [TryHackMe](https://tryhackme.com/) - Practice cybersecurity skills through interactive challenges and labs.
+- [Hack The Box](hackthebox.com) - Practice cybersecurity skills through interactive challenges and labs.
 - [Coursera](https://www.coursera.org/) - Online courses on cybersecurity topics and certifications, including the Google Cybersecurity Certificate.
 - [Codecademy](https://www.codecademy.com/) - Interactive coding courses, including learning Python and other security-related programming languages.
 
