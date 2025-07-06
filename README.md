@@ -4,10 +4,11 @@ Welcome to my personal cybersecurity learning journey! This repository tracks my
 
 ## 🚀 Learning Progress
 
-### 1. **Cybersecurity Fundamentals** (Google Certification) - Completed (Month Year)
+### 1. **Cybersecurity Fundamentals** (Google Certification) - Completed (July 2025)
 - Completed the Fundamentals in Cybersecurity course by Google.
 - Gained foundational knowledge in cybersecurity principles, security threats, and risk management.
 - Familiarized with basic concepts in encryption, network security, and compliance.
+- Certification link: [Google Cybersecurity Fundamentals](https://coursera.org/share/07b6a825e2a61d90325330659c858e0c)
 
 ### 2. **Current Learning Topics**
 - Continuing my journey with the rest of Google’s cybersecurity certification path.
@@ -19,7 +20,7 @@ Welcome to my personal cybersecurity learning journey! This repository tracks my
 
 ## 🏆 Certifications
 
-- **[Google Foundations of Cybersecurity]((https://coursera.org/share/07b6a825e2a61d90325330659c858e0c)** – (July 2025)
+- **[Google: Foundations of Cybersecurity](https://coursera.org/share/07b6a825e2a61d90325330659c858e0c)** – (July 2025)
   - I’m working towards completing the full Google Cybersecurity Professional Certificate!
 
 > I will continue to add certifications as I progress, with CompTIA Security+ and completing the full Google certification as my next milestones.
@@ -42,4 +43,6 @@ I will also participate in challenges on TryHackMe and document solutions and in
 
 ## 💬 Contact
 
-Feel free to reach out for collaborations, suggestions, or discussions! You can connect with me through [LinkedIn]((https://www.linkedin.com/in/asanflo/)
+Feel free to reach out for collaborations, suggestions, or discussions! You can connect with me through [LinkedIn](https://www.linkedin.com/in/asanflo/).
+
+
